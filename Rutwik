@@ -77,7 +77,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#00fdff",
         "stroke-width": 5,
         "stroke-opacity": 1
       },
@@ -178,10 +178,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#00fdff",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#00fdff",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -215,10 +215,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#00fdff",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#00fdff",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -252,10 +252,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff2600",
+        "stroke": "#0433ff",
         "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#ff2600",
+        "fill": "#0433ff",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -309,10 +309,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff2600",
+        "stroke": "#0433ff",
         "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#ff2600",
+        "fill": "#0433ff",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -391,6 +391,129 @@
             [
               151.34031772613525,
               -33.43049223780903
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#ff2600",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.34125113487244,
+              -33.422702080971845
+            ],
+            [
+              151.34168028831482,
+              -33.42090218670229
+            ],
+            [
+              151.34078979492188,
+              -33.420749955127306
+            ],
+            [
+              151.34042501449585,
+              -33.42259462564488
+            ],
+            [
+              151.34125113487244,
+              -33.422702080971845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#ff2600",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.34168028831482,
+              -33.420758909933234
+            ],
+            [
+              151.3420557975769,
+              -33.418950020389
+            ],
+            [
+              151.34122967720032,
+              -33.41879778539135
+            ],
+            [
+              151.34084343910217,
+              -33.42060667810704
+            ],
+            [
+              151.34168028831482,
+              -33.420758909933234
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0433ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#0433ff",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.32436394691467,
+              -33.42610924132904
+            ],
+            [
+              151.32376313209534,
+              -33.4272374699512
+            ],
+            [
+              151.32396697998047,
+              -33.42738969015055
+            ],
+            [
+              151.32451951503754,
+              -33.42746580015012
+            ],
+            [
+              151.32504522800446,
+              -33.42733596540479
+            ],
+            [
+              151.3245141506195,
+              -33.42615401258551
+            ],
+            [
+              151.32444977760315,
+              -33.42608237856408
+            ],
+            [
+              151.32436394691467,
+              -33.42610924132904
             ]
           ]
         ]
